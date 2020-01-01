@@ -16,16 +16,6 @@ export default {
     };
   },
   mounted() {
-    /**
-     * Vue component that wrap canvas element to renderer projectiles in a field.
-     * Html canvas.
-     * canvas context.
-     * field - Object has all business logic about the field.
-     */
-    /**
-     * Represents a xxx.
-     * @constructor
-     */
     let c = document.getElementById("canvas-field");
     let ctx = c.getContext("2d");
     ctx.lineJoin = "round";

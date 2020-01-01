@@ -1,11 +1,6 @@
 import { AXIS_EXCEPTION } from "../utils/AxisExceptionEnum";
 
 export default class Field {
-  /**
-   * Create a new Book.
-   * @class
-   * @param {string} title - The title of the book.
-   */
   constructor(height, width, canvasContext) {
     this.height = height;
     this.width = width;
