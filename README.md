@@ -24,6 +24,9 @@ npm run build //This case only necessary if you use this app in production mode,
 
 node and npm to run.
 
+## Documentation
+See wiki tab or https://github.com/diiogocosta/projectile-app/wiki
+
 ## Authors
 
 - **Diogo da Costa**
